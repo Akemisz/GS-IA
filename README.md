@@ -17,11 +17,11 @@ A solução proposta é uma plataforma de monitoramento de recifes de coral que 
 
 ### CONSTRUÇÃO DO MODELO CNN
 
-Um modelo de Rede Neural Convolucional (CNN) é construído usando a API funcional do Keras. O modelo possui várias camadas convolucionais e de pooling, seguidas por camadas totalmente conectadas. É utilizado em seguida um modelo pré-treinado, VGG19, como base para extração de características. Logo em seguida são adicionadas camadas de aumento de dados para aplicar transformações aleatórias durante o treinamento, como rotação, zoom e flip horizontal. Já as camadas densas são adicionadas para classificar as imagens em suas respectivas classes.
+- Um modelo de Rede Neural Convolucional (CNN) é construído usando a API funcional do Keras. O modelo possui várias camadas convolucionais e de pooling, seguidas por camadas totalmente conectadas. É utilizado em seguida um modelo pré-treinado, VGG19, como base para extração de características. Logo em seguida são adicionadas camadas de aumento de dados para aplicar transformações aleatórias durante o treinamento, como rotação, zoom e flip horizontal. Já as camadas densas são adicionadas para classificar as imagens em suas respectivas classes.
 
 ### TREINAMENTO E AVALIAÇÃO
 
-O modelo foi compilado com uma função de perda de entropia cruzada categórica e otimizador Adam. Utilizando o método fit() do Keras, com EarlyStopping, ModelCheckpoint e ReduceLROnPlateau como callbacks para monitorar e ajustar o treinamento. A performance do modelo é avaliada usando dados de validação e o conjunto de teste separado, e as métricas de acurácia e perda são registradas ao longo do treinamento e exibidas em gráficos para análise.
+- O modelo foi compilado com uma função de perda de entropia cruzada categórica e otimizador Adam. Utilizando o método fit() do Keras, com EarlyStopping, ModelCheckpoint e ReduceLROnPlateau como callbacks para monitorar e ajustar o treinamento. A performance do modelo é avaliada usando dados de validação e o conjunto de teste separado, e as métricas de acurácia e perda são registradas ao longo do treinamento e exibidas em gráficos para análise.
 
 ### Resultados obtidos:
 
@@ -32,6 +32,8 @@ A acurácia do modelo alcançou 72% no conjunto de teste.
 
 - As previsões do modelo foram consistentes e precisas, comprovadas pela avaliação do conjunto de teste e observações visuais das imagens classificadas.
 
+# Video Pitch e funcionalidades do codigo
+link do video
 
 
 

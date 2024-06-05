@@ -32,8 +32,12 @@ A acurácia do modelo alcançou 72% no conjunto de teste.
 
 - As previsões do modelo foram consistentes e precisas, comprovadas pela avaliação do conjunto de teste e observações visuais das imagens classificadas.
 
+### Conclusão dos resultados
+
 ## Video Pitch e funcionalidades do codigo
 link do video
+
+
 
 
 

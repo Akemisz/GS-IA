@@ -25,7 +25,7 @@ A solução proposta gira em torno de uma plataforma de monitoramento de recifes
 
 ### RESULTADOS OBTIDOS:
 
-- O modelo CNN treinado demonstrou um bom desempenho na tarefa de classificação de imagens de corais. A acurácia do modelo alcançou 72% no conjunto de teste.
+- O modelo CNN treinado demonstrou um bom desempenho na tarefa de classificação de imagens de corais. A acurácia do modelo alcançou 77% no conjunto de teste.
 
 - Os gráficos de treinamento e validação mostraram uma boa convergência do modelo, com a perda diminuindo e a acurácia aumentando ao longo das épocas proporcionalmente.
 

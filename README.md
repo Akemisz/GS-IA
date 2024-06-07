@@ -1,4 +1,5 @@
-# GS IA
+# NEXTIA IA
+
 ## Descrição do problema
 
 Os recifes de coral são ecossistemas vitais para a saúde dos oceanos e a biodiversidade marinha, e enfrentam ameaças, como o fenômeno do branqueamento em larga escala. O branqueamento ocorre quando os corais perdem suas algas simbióticas devido a estresses ambientais como aumento da temperatura da água e poluição, enfraquecendo os corais e impactando negativamente todo o ecossistema marinho. A perda de corais afeta diretamente comunidades humanas que dependem dos oceanos para alimentação, emprego e proteção contra desastres naturais. É essencial implementar medidas eficazes para proteger e preservar os recifes de coral e os ecossistemas marinhos em geral.
@@ -42,6 +43,14 @@ Após a conclusão do treinamento e análise do nosso modelo de classificação 
 Embora nosso modelo tenha alcançado resultados satisfatórios, há sempre espaço para melhorias e refinamentos.
 
 ## Video Pitch e explicação do código https://youtu.be/rBHI7M55P9c
+
+## Integrantes NEXT IA: 
+
+- Julia Akemi RM: 98032
+- Mateus Fattori RM: 97904
+- Bianca Barreto RM: 551848
+- Gabriel Cirillo RM: 98214
+- Pedro Baraldi RM: 98060
 
 
 

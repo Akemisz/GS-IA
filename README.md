@@ -41,8 +41,7 @@ Após a conclusão do treinamento e análise do nosso modelo de classificação 
 
 Embora nosso modelo tenha alcançado resultados satisfatórios, há sempre espaço para melhorias e refinamentos.
 
-## Video Pitch e funcionalidades do codigo
-link do video
+## Video Pitch e explicação do código
 
 
 
